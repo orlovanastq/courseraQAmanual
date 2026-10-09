@@ -1,7 +1,7 @@
 # Bug Report - Invalid characters accepted in ZIP code field
 
 **Title:**
-<!-- Order is placed successfully when entering special characters in Zip Code field -->
+'Order is placed successfully when entering special characters in Zip Code field'
 
 **Environment:** MindBridge, http://localhost:3000
 
@@ -18,10 +18,10 @@
 'An error message (e.g., "Invalid ZIP code") should be displayed, and the order should NOT be placed.'
 
 **Actual Result:**
-<!-- The order is successfully placed and added to the orders list.-->
+'The order is successfully placed and added to the orders list.'
 
 **Severity:** High / Medium / Low
-<!-- High (Data validation failure leading to invalid data in DB)-->
+'High (Data validation failure leading to invalid data in DB)'
 
 **Notes / Evidence:**
 <!--  -->
