@@ -15,7 +15,7 @@
 4. Click the "Place order" button.
 
 **Expected Result:**
-<!-- An error message (e.g., "Invalid ZIP code") should be displayed, and the order should NOT be placed. -->
+'An error message (e.g., "Invalid ZIP code") should be displayed, and the order should NOT be placed.'
 
 **Actual Result:**
 <!-- The order is successfully placed and added to the orders list.-->
